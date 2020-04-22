@@ -1,0 +1,24 @@
+{
+  "name": "skoleperiode-framework-ArneBuchter",
+  "version": "1.0.0",
+  "description": "I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende skoleperiode skal introduceres til. Vi har valgt ReactJS fordi det er det absolut mest brugte framework blandt branchens bureauer.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk-wuhf02/skoleperiode-framework-ArneBuchter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rts-cmk-wuhf02/skoleperiode-framework-ArneBuchter/issues"
+  },
+  "homepage": "https://github.com/rts-cmk-wuhf02/skoleperiode-framework-ArneBuchter#readme",
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
