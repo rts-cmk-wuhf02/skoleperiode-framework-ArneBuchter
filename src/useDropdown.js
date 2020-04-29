@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 const useDropdown = (label, defaultState, options) => {
-  console.log(options);
   const [state, updateState] = useState(defaultState);
   const id = `use-dropdown-${label.replace(" ", "").toLowerCase()}`;
   const Dropdown = () => (
