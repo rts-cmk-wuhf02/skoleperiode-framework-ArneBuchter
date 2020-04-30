@@ -1,5 +1,5 @@
 {
-  "name": "skoleperiode-framework-ArneBuchter",
+  "name": "skoleperiodeframeworkarnebuchter",
   "version": "1.0.0",
   "description": "I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende skoleperiode skal introduceres til. Vi har valgt ReactJS fordi det er det absolut mest brugte framework blandt branchens bureauer.",
   "main": "index.js",
